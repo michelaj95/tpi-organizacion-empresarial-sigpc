@@ -38,7 +38,7 @@ Los comentarios se resuelven mediante un commit posterior y quedan visibles en l
 
 ## Tablero
 
-**Enlace:** PENDIENTE_PUBLICACION_TABLERO
+**Enlace:** https://github.com/users/michelaj95/projects/1
 
 El tablero utiliza las columnas **Por Hacer**, **En Progreso** y **Listo**. Cada tarjeta se vincula con un issue del repositorio y conserva responsable, prioridad, estimación y criterios de aceptación.
 
