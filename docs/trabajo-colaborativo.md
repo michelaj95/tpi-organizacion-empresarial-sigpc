@@ -23,7 +23,7 @@ No se utilizan mensajes genéricos como “cambios”, “actualización” o �
 
 ## Pull Request y revisión
 
-**PR de integración:** PENDIENTE_PUBLICACION_PR
+**PR de integración:** https://github.com/michelaj95/tpi-organizacion-empresarial-sigpc/pull/4
 
 La revisión debe ser realizada por una cuenta distinta de la autora. El revisor verifica:
 
