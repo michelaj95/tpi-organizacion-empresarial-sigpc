@@ -4,7 +4,7 @@ Trabajo Práctico Integrador de **Organización Empresarial** — Tecnicatura Un
 
 **Integrante:** Michela Juárez  
 **Organización analizada:** Multitronik Solutions S.R.L.  
-**Tablero de gestión:** PENDIENTE_PUBLICACION_TABLERO  
+**Tablero de gestión:** https://github.com/users/michelaj95/projects/1  
 **Documento final:** [TPI final consolidado](docs/entregas/TPI_Final_Michela_Juarez.pdf)
 
 ## Descripción
