@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="5200" height="1700" viewBox="0 0 5200 1700">
+<title>BPMN SIGPC — Admisión y alta del proyecto</title>
+<defs>
+  <marker id="seq-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#263238"/>
+  </marker>
+  <marker id="msg-arrow" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="12" markerHeight="12" orient="auto-start-reverse">
+    <path d="M 1 1 L 11 6 L 1 11" fill="none" stroke="#006A8E" stroke-width="1.8"/>
+  </marker>
+  <filter id="shadow" x="-15%" y="-20%" width="130%" height="145%">
+    <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#004E68" flood-opacity="0.15"/>
+  </filter>
+</defs>
+<rect width="5200" height="1700" fill="#FFFFFF"/>
+<text x="80" y="28" text-anchor="start" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="38" font-weight="700" font-style="normal" fill="#004E68">BPMN — Gestión integral de un proyecto de software</text>
+<text x="5120" y="30" text-anchor="end" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="26" font-weight="400" font-style="normal" fill="#65757D">Fragmento 1 de 2 · Admisión y alta</text>
+<rect x="60" y="70" width="5080" height="170" rx="0" fill="#F7FAFB" stroke="#263238" stroke-width="4"/>
+<line x1="140" y1="70" x2="140" y2="240" stroke="#263238" stroke-width="3"/>
+<text x="100.0" y="155.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="30" font-weight="700" font-style="normal" fill="#263238" transform="rotate(-90 100.0 155.0)">Cliente</text>
+<text x="175" y="155.0" text-anchor="start" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="28" font-weight="500" font-style="normal" fill="#65757D">Pool externo (caja negra): intercambia mensajes con Multitronik</text>
+<rect x="60" y="300" width="5080" height="1200" rx="0" fill="#FFFFFF" stroke="#263238" stroke-width="4"/>
+<line x1="140" y1="300" x2="140" y2="1500" stroke="#263238" stroke-width="3"/>
+<line x1="370" y1="300" x2="370" y2="1500" stroke="#263238" stroke-width="3"/>
+<text x="100.0" y="900.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="30" font-weight="700" font-style="normal" fill="#263238" transform="rotate(-90 100.0 900.0)">Multitronik Solutions S.R.L.</text>
+<rect x="140" y="300.0" width="5000" height="400.0" fill="#F4FAFC" stroke="none"/>
+<text x="255.0" y="500.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="700" font-style="normal" fill="#004E68">Comercial</text>
+<rect x="140" y="700.0" width="5000" height="400.0" fill="#FFFFFF" stroke="none"/>
+<line x1="140" y1="700.0" x2="5140" y2="700.0" stroke="#65757D" stroke-width="2"/>
+<text x="255.0" y="900.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="700" font-style="normal" fill="#004E68">SIGPC (sistema)</text>
+<rect x="140" y="1100.0" width="5000" height="400.0" fill="#F4FAFC" stroke="none"/>
+<line x1="140" y1="1100.0" x2="5140" y2="1100.0" stroke="#65757D" stroke-width="2"/>
+<text x="255.0" y="1300.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="700" font-style="normal" fill="#004E68">Dirección</text>
+<circle cx="390" cy="500" r="40" fill="#FFFFFF" stroke="#263238" stroke-width="4"/>
+<rect x="371" y="488" width="38" height="27" rx="2" fill="#EAF6FA" stroke="#004E68" stroke-width="2"/>
+<path d="M 372 490 L 390 505 L 408 490" fill="none" stroke="#004E68" stroke-width="2"/>
+<text x="390" y="578.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="26" font-weight="600" font-style="normal" fill="#263238">Solicitud recibida</text>
+<rect x="510" y="440" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="539" cy="468" r="9" fill="#FFFFFF" stroke="#004E68" stroke-width="3"/>
+<path d="M 523 496 Q 539 479 555 496" fill="none" stroke="#004E68" stroke-width="3"/>
+<text x="675.0" y="502.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Relevar requisitos</text>
+<rect x="880" y="840" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="909" cy="873" r="11" fill="#FFFFFF" stroke="#004E68" stroke-width="3"/>
+<line x1="909.0" y1="863.1" x2="909" y2="855" stroke="#004E68" stroke-width="3"/>
+<line x1="909.0" y1="882.9" x2="909" y2="891" stroke="#004E68" stroke-width="3"/>
+<line x1="899.1" y1="873.0" x2="891" y2="873" stroke="#004E68" stroke-width="3"/>
+<line x1="918.9" y1="873.0" x2="927" y2="873" stroke="#004E68" stroke-width="3"/>
+<line x1="901.85" y1="865.85" x2="896" y2="860" stroke="#004E68" stroke-width="3"/>
+<line x1="916.15" y1="880.15" x2="922" y2="886" stroke="#004E68" stroke-width="3"/>
+<line x1="901.85" y1="880.15" x2="896" y2="886" stroke="#004E68" stroke-width="3"/>
+<line x1="916.15" y1="865.85" x2="922" y2="860" stroke="#004E68" stroke-width="3"/>
+<text x="1045.0" y="885.325" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Validar datos</text>
+<text x="1045.0" y="918.6750000000001" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">obligatorios</text>
+<polygon points="1280,847.5 1332.5,900 1280,952.5 1227.5,900" fill="#FFF8E7" stroke="#263238" stroke-width="4" filter="url(#shadow)"/>
+<path d="M 1261 881 L 1299 919 M 1299 881 L 1261 919" stroke="#263238" stroke-width="6"/>
+<text x="1280" y="805.5" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="27" font-weight="700" font-style="normal" fill="#004E68">¿Datos completos?</text>
+<rect x="1370" y="330" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<rect x="1382" y="346" width="38" height="27" rx="2" fill="#D3EDF5" stroke="#004E68" stroke-width="2"/>
+<path d="M 1383 348 L 1401 363 L 1419 348" fill="none" stroke="#004E68" stroke-width="2"/>
+<text x="1535.0" y="375.325" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Pedir información</text>
+<text x="1535.0" y="408.67499999999995" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">faltante</text>
+<rect x="1730" y="330" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<rect x="1742" y="346" width="38" height="27" rx="2" fill="#EAF6FA" stroke="#004E68" stroke-width="2"/>
+<path d="M 1743 348 L 1761 363 L 1779 348" fill="none" stroke="#004E68" stroke-width="2"/>
+<text x="1895.0" y="375.325" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Recibir datos</text>
+<text x="1895.0" y="408.67499999999995" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">adicionales</text>
+<rect x="1450" y="520" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="1479" cy="548" r="9" fill="#FFFFFF" stroke="#004E68" stroke-width="3"/>
+<path d="M 1463 576 Q 1479 559 1495 576" fill="none" stroke="#004E68" stroke-width="3"/>
+<text x="1615.0" y="582.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Preparar propuesta</text>
+<rect x="1900" y="1240" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="1929" cy="1268" r="9" fill="#FFFFFF" stroke="#004E68" stroke-width="3"/>
+<path d="M 1913 1296 Q 1929 1279 1945 1296" fill="none" stroke="#004E68" stroke-width="3"/>
+<text x="2065.0" y="1302.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Evaluar propuesta</text>
+<polygon points="2290,1247.5 2342.5,1300 2290,1352.5 2237.5,1300" fill="#FFF8E7" stroke="#263238" stroke-width="4" filter="url(#shadow)"/>
+<path d="M 2271 1281 L 2309 1319 M 2309 1281 L 2271 1319" stroke="#263238" stroke-width="6"/>
+<text x="2290" y="1189.975" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="27" font-weight="700" font-style="normal" fill="#004E68">¿Aprobada</text>
+<text x="2290" y="1221.0249999999999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="27" font-weight="700" font-style="normal" fill="#004E68">internamente?</text>
+<rect x="2180" y="510" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="2209" cy="538" r="9" fill="#FFFFFF" stroke="#004E68" stroke-width="3"/>
+<path d="M 2193 566 Q 2209 549 2225 566" fill="none" stroke="#004E68" stroke-width="3"/>
+<text x="2345.0" y="555.325" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Ajustar alcance y</text>
+<text x="2345.0" y="588.6750000000001" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">costo</text>
+<rect x="2590" y="440" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<rect x="2602" y="456" width="38" height="27" rx="2" fill="#D3EDF5" stroke="#004E68" stroke-width="2"/>
+<path d="M 2603 458 L 2621 473 L 2639 458" fill="none" stroke="#004E68" stroke-width="2"/>
+<text x="2755.0" y="502.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Enviar propuesta</text>
+<rect x="2960" y="440" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<rect x="2972" y="456" width="38" height="27" rx="2" fill="#EAF6FA" stroke="#004E68" stroke-width="2"/>
+<path d="M 2973 458 L 2991 473 L 3009 458" fill="none" stroke="#004E68" stroke-width="2"/>
+<text x="3125.0" y="502.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Recibir respuesta</text>
+<polygon points="3360,447.5 3412.5,500 3360,552.5 3307.5,500" fill="#FFF8E7" stroke="#263238" stroke-width="4" filter="url(#shadow)"/>
+<path d="M 3341 481 L 3379 519 M 3379 481 L 3341 519" stroke="#263238" stroke-width="6"/>
+<text x="3360" y="389.975" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="27" font-weight="700" font-style="normal" fill="#004E68">Respuesta del</text>
+<text x="3360" y="421.02500000000003" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="27" font-weight="700" font-style="normal" fill="#004E68">cliente</text>
+<rect x="3500" y="330" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="3529" cy="358" r="9" fill="#FFFFFF" stroke="#004E68" stroke-width="3"/>
+<path d="M 3513 386 Q 3529 369 3545 386" fill="none" stroke="#004E68" stroke-width="3"/>
+<text x="3665.0" y="392.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Registrar rechazo</text>
+<circle cx="3930" cy="390" r="42" fill="#FFFFFF" stroke="#A33B32" stroke-width="10"/>
+<text x="3930" y="457.05" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="26" font-weight="700" font-style="normal" fill="#A33B32">Propuesta</text>
+<text x="3930" y="486.95" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="26" font-weight="700" font-style="normal" fill="#A33B32">rechazada</text>
+<rect x="3500" y="520" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="3529" cy="548" r="9" fill="#FFFFFF" stroke="#004E68" stroke-width="3"/>
+<path d="M 3513 576 Q 3529 559 3545 576" fill="none" stroke="#004E68" stroke-width="3"/>
+<text x="3665.0" y="582.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Ajustar propuesta</text>
+<rect x="3650" y="840" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="3679" cy="873" r="11" fill="#FFFFFF" stroke="#004E68" stroke-width="3"/>
+<line x1="3679.0" y1="863.1" x2="3679" y2="855" stroke="#004E68" stroke-width="3"/>
+<line x1="3679.0" y1="882.9" x2="3679" y2="891" stroke="#004E68" stroke-width="3"/>
+<line x1="3669.1" y1="873.0" x2="3661" y2="873" stroke="#004E68" stroke-width="3"/>
+<line x1="3688.9" y1="873.0" x2="3697" y2="873" stroke="#004E68" stroke-width="3"/>
+<line x1="3671.85" y1="865.85" x2="3666" y2="860" stroke="#004E68" stroke-width="3"/>
+<line x1="3686.15" y1="880.15" x2="3692" y2="886" stroke="#004E68" stroke-width="3"/>
+<line x1="3671.85" y1="880.15" x2="3666" y2="886" stroke="#004E68" stroke-width="3"/>
+<line x1="3686.15" y1="865.85" x2="3692" y2="860" stroke="#004E68" stroke-width="3"/>
+<text x="3815.0" y="885.325" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Crear proyecto</text>
+<text x="3815.0" y="918.6750000000001" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">aprobado</text>
+<rect x="4050" y="840" width="300" height="120" rx="20" fill="#FFFFFF" stroke="#004E68" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="4079" cy="873" r="11" fill="#FFFFFF" stroke="#004E68" stroke-width="3"/>
+<line x1="4079.0" y1="863.1" x2="4079" y2="855" stroke="#004E68" stroke-width="3"/>
+<line x1="4079.0" y1="882.9" x2="4079" y2="891" stroke="#004E68" stroke-width="3"/>
+<line x1="4069.1" y1="873.0" x2="4061" y2="873" stroke="#004E68" stroke-width="3"/>
+<line x1="4088.9" y1="873.0" x2="4097" y2="873" stroke="#004E68" stroke-width="3"/>
+<line x1="4071.85" y1="865.85" x2="4066" y2="860" stroke="#004E68" stroke-width="3"/>
+<line x1="4086.15" y1="880.15" x2="4092" y2="886" stroke="#004E68" stroke-width="3"/>
+<line x1="4071.85" y1="880.15" x2="4066" y2="886" stroke="#004E68" stroke-width="3"/>
+<line x1="4086.15" y1="865.85" x2="4092" y2="860" stroke="#004E68" stroke-width="3"/>
+<text x="4215.0" y="885.325" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">Notificar</text>
+<text x="4215.0" y="918.6750000000001" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="29" font-weight="600" font-style="normal" fill="#263238">responsables</text>
+<circle cx="4580" cy="900" r="43" fill="#FFFFFF" stroke="#004E68" stroke-width="4"/>
+<circle cx="4580" cy="900" r="36" fill="#FFFFFF" stroke="#004E68" stroke-width="2"/>
+<path d="M 4565 885 L 4598 900 L 4565 915 z" fill="#006A8E"/>
+<text x="4580" y="978" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="30" font-weight="700" font-style="normal" fill="#004E68">Enlace A</text>
+<polyline points="430,500 510,500" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="810,500 840,500 840,900 880,900" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="1180,900 1227,900" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="1280,847 1280,390 1370,390" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<text x="1308" y="720" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="25" font-weight="700" font-style="normal" fill="#004E68">No</text>
+<polyline points="1670,390 1730,390" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="2030,390 2070,390 2070,735 1030,735 1030,840" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="1333,900 1390,900 1390,580 1450,580" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<text x="1365" y="865" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="25" font-weight="700" font-style="normal" fill="#004E68">Sí</text>
+<polyline points="1750,580 1810,580 1810,1300 1900,1300" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="2200,1300 2237,1300" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="2290,1247 2290,630" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<text x="2318" y="1030" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="25" font-weight="700" font-style="normal" fill="#004E68">No</text>
+<polyline points="2180,570 2100,570 2100,1170 2050,1170 2050,1240" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="2343,1300 2500,1300 2500,500 2590,500" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<text x="2475" y="1265" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="25" font-weight="700" font-style="normal" fill="#004E68">Sí</text>
+<polyline points="2890,500 2960,500" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="3260,500 3307,500" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="3360,447 3360,390 3500,390" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<text x="3425" y="355" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="25" font-weight="700" font-style="normal" fill="#004E68">Rechaza</text>
+<polyline points="3800,390 3888,390" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="3413,500 3450,500 3450,580 3500,580" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<text x="3480" y="480" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="25" font-weight="700" font-style="normal" fill="#004E68">Pide cambios</text>
+<polyline points="3650,640 3650,690 2140,690 2140,1170 2050,1170 2050,1240" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="3360,553 3360,900 3650,900" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<text x="3395" y="735" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="25" font-weight="700" font-style="normal" fill="#004E68">Acepta</text>
+<polyline points="3950,900 4050,900" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<polyline points="4350,900 4537,900" fill="none" stroke="#263238" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#seq-arrow)"/>
+<circle cx="390" cy="240" r="7" fill="#FFFFFF" stroke="#006A8E" stroke-width="3"/>
+<polyline points="390,240 390,460" fill="none" stroke="#006A8E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="18 13" marker-end="url(#msg-arrow)"/>
+<text x="560" y="272" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#006A8E">Solicitud y requisitos</text>
+<circle cx="1520" cy="330" r="7" fill="#FFFFFF" stroke="#006A8E" stroke-width="3"/>
+<polyline points="1520,330 1520,240" fill="none" stroke="#006A8E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="18 13" marker-end="url(#msg-arrow)"/>
+<text x="1660" y="270" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#006A8E">Pedido de datos</text>
+<circle cx="1880" cy="240" r="7" fill="#FFFFFF" stroke="#006A8E" stroke-width="3"/>
+<polyline points="1880,240 1880,330" fill="none" stroke="#006A8E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="18 13" marker-end="url(#msg-arrow)"/>
+<text x="2060" y="270" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#006A8E">Información adicional</text>
+<circle cx="2740" cy="440" r="7" fill="#FFFFFF" stroke="#006A8E" stroke-width="3"/>
+<polyline points="2740,440 2740,240" fill="none" stroke="#006A8E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="18 13" marker-end="url(#msg-arrow)"/>
+<text x="2830" y="270" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#006A8E">Propuesta</text>
+<circle cx="3110" cy="240" r="7" fill="#FFFFFF" stroke="#006A8E" stroke-width="3"/>
+<polyline points="3110,240 3110,440" fill="none" stroke="#006A8E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="18 13" marker-end="url(#msg-arrow)"/>
+<text x="3370" y="270" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#006A8E">Aceptación, cambios o rechazo</text>
+<text x="60" y="1570" text-anchor="start" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="27" font-weight="500" font-style="normal" fill="#65757D">Flujo continuo: secuencia interna · Flujo discontinuo: mensaje · Rombo con X: decisión exclusiva · Enlace A: continuidad en el fragmento 2</text>
+<text x="5140" y="1640" text-anchor="end" dominant-baseline="middle" font-family="Arial, Liberation Sans, sans-serif" font-size="24" font-weight="500" font-style="normal" fill="#65757D">Elaboración propia · BPMN 2.0</text>
+</svg>
